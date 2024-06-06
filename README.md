@@ -1,1 +1,9 @@
-# CO2-Air-Quality-Forecasting
+# Requirements liblary
+
+numpy
+pandas
+sckit-learn
+seaborn
+statsmodels
+streamlit
+matplotlib
